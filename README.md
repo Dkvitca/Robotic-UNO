@@ -21,3 +21,7 @@ This project involves the development of a four-wheeled robotic car using an Ard
   - **Servo:** For controlling servo motors.
   - **WiFiUDP:** For handling UDP communication.
 - **UDP Protocol:** For efficient, low-latency data exchange.
+
+![Ultrasonic Sensor Mapping](ultrasonic_mapping.png)
+
+The image above shows the real-time mapping of the environment using ultrasonic sensors. The car adjusts sensor angles with servo motors for comprehensive area coverage.
