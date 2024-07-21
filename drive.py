@@ -2,7 +2,7 @@ import socket
 import keyboard 
 
 # UDP setup
-server_ip = "192.168.1.132"  # Arduino IP address
+server_ip = ""  # Arduino IP address
 server_port = 8888
 
 # Create a UDP socket
