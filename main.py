@@ -6,7 +6,7 @@ from matplotlib.animation import FuncAnimation
 import threading
 
 # UDP setup
-server_ip = "192.168.1.132"  # Arduino IP address
+server_ip = ""  # Arduino IP address
 server_port = 8888
 local_ip = "0.0.0.0"  # Listen on all interfaces
 local_port = 8888
